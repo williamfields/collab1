@@ -6,7 +6,7 @@ This is an experiment in using open source software development tools and method
 
 ## Rules
 
-- Remember to pull down the latest tracks from Gitub before working on any changes locally.
+- Remember to pull down the latest tracks from GitHub before working on any changes locally.
 - Feel free to modify existing tracks and add new tracks.
 - Use whatever DAW or software that you want, but only commit rendered tracks. Do not commit your source/project files.
 - Each track should be a single 16-bit FLAC of ~1 minute length.
